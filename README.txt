@@ -5,3 +5,4 @@ change now on feature2 branch
 another change on feature2 branch
 fourth commit (on master)
 fifth commit
+sixth commit
